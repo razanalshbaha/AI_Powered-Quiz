@@ -8,6 +8,7 @@ The AI-Powered Quiz is a web application that utilizes the LangChain API to gene
 
 
 ## Run the website:
+Before running the application, make sure you use an OpenAI API Key and assign it to a variable called 'apikey'
 To open the website, run the following commands:
 ```
 git clone https://github.com/razanalshbaha/AI_Powered-Quiz.git
